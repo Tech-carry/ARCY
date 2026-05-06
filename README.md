@@ -7,16 +7,13 @@ ARCY (Artificial Response Companion for You) is an ESP32-based smart desk assist
 - OLED animated face UI
 - Real-time clock using NTP
 - Weather updates using OpenWeather API
-- AQI monitoring using MQ135 sensor
+- AQI monitoring using  openWeather API
 - Task display using Blynk app
-- Reminder buzzer
 
 ## Components Used
 - ESP32
 - OLED SSD1306 Display
-- MQ135 Gas Sensor
 - TTP223 Touch Sensor
-- Buzzer
 - Lithium-ion Battery Module
 
 ## Technologies Used
